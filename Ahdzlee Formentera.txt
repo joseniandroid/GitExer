@@ -1,4 +1,13 @@
 Ahdzlee Formentera
 2005001266
 dev.ahdzlee@gmail.com
+<<<<<<< HEAD
 hehe
+=======
+
+
+HELLO WORLD! :D
+
+harniel gwapo
+>>>>>>> 91da6c879457d73f74aa8e0f5942190a9505e4ac
+mycoh goes to MNL
